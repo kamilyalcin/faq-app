@@ -25,7 +25,7 @@ body{
     align-items: center;
     grid-template-areas: "a b"
                          "c c";
-    grid-template-columns: 330px 20px;
+    grid-template-columns: 313px 20px;
     border: 1px solid rgb(75, 70, 48);
     border-radius: 5px;
     background-color: white;
